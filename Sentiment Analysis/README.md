@@ -1,7 +1,7 @@
 # Sentiment Analysis Web Application 📎
 
-![Sentiment Analysis](Sentiment%20Analysis%2Fmovies%20reviews%20sentiment%20different%20faces.png)
 
+![Sentiment Analysis](movies%20reviews%20sentiment%20differe.jpg)
 
 
 ## Project Overview
