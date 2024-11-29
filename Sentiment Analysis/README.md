@@ -1,6 +1,6 @@
 # Sentiment Analysis Web Application
 
-![](images/your_image.jpg)
+![](Sentiment Analysis/movies reviews sentiment different faces.png)
 
 
 
