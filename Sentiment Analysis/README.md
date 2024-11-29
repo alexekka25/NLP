@@ -1,8 +1,6 @@
 # Sentiment Analysis Web Application
 
-
-
-
+![](images/your_image.jpg)
 
 
 
