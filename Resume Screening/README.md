@@ -1,4 +1,6 @@
-# Resume Screening App
+# Resume Screening App 📄📰
+
+![resume papers](a%20big%20table%20with%20many%20resumes%20fr.jpg)
 
 
 This project is a Resume Screening application built using machine learning and heuristic approaches. The app extracts key information from resumes, such as:
@@ -11,7 +13,7 @@ This project is a Resume Screening application built using machine learning and 
 
 The app allows users to upload their resumes in PDF or Text format, and it processes the resumes to extract meaningful details
 
-# Project Overview
+# Project Overview 🏢
 
 
 The Resume Screening App helps automate the extraction of key information from resumes, which can save HR departments and hiring managers significant time during the recruitment process. It uses a machine learning model to classify resumes into categories and applies heuristic rules to extract emails and LinkedIn links
